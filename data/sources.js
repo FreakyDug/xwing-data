@@ -399,7 +399,7 @@
   },
   {
     "id": 12,
-    "name": "Lambda-Class Shuttle Expansion Pack",
+    "name": "Lambda-class Shuttle Expansion Pack",
     "image": "sources/lambda-class-shuttle-expansion-pack-product.jpg",
     "thumb": "sources/lambda-class-shuttle-expansion-pack-thumb.jpg",
     "wave": 3,
@@ -1101,7 +1101,7 @@
   },
   {
     "id": 30,
-    "name": "K-Wing Expansion Pack",
+    "name": "K-wing Expansion Pack",
     "image": "sources/k-wing-expansion-pack-product.jpg",
     "thumb": "sources/k-wing-expansion-pack-thumb.jpg",
     "wave": 7,
@@ -1218,7 +1218,7 @@
   },
   {
     "id": 33,
-    "name": "T-70 X-Wing Expansion Pack",
+    "name": "T-70 X-wing Expansion Pack",
     "image": "sources/t-70-x-wing-expansion-pack-product.jpg",
     "thumb": "sources/t-70-x-wing-expansion-pack-thumb.jpg",
     "wave": 8,
@@ -1813,7 +1813,7 @@
     "released": true
   },
   {
-    "name": "U-Wing Expansion Pack",
+    "name": "U-wing Expansion Pack",
     "wave": 10,
     "id": 49,
     "contents": {
