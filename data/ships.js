@@ -1,6 +1,6 @@
 [
   {
-    "name": "X-Wing",
+    "name": "X-wing",
     "faction": [
       "Rebel Alliance"
     ],
@@ -59,7 +59,7 @@
     "id": 0
   },
   {
-    "name": "Y-Wing",
+    "name": "Y-wing",
     "faction": [
       "Rebel Alliance",
       "Scum and Villainy"
@@ -119,7 +119,7 @@
     "id": 1
   },
   {
-    "name": "A-Wing",
+    "name": "A-wing",
     "faction": [
       "Rebel Alliance"
     ],
@@ -571,7 +571,7 @@
     "id": 8
   },
   {
-    "name": "Lambda-Class Shuttle",
+    "name": "Lambda-class Shuttle",
     "faction": [
       "Galactic Empire"
     ],
@@ -618,7 +618,7 @@
     "id": 9
   },
   {
-    "name": "B-Wing",
+    "name": "B-wing",
     "faction": [
       "Rebel Alliance"
     ],
@@ -978,7 +978,7 @@
     "id": 14
   },
   {
-    "name": "E-Wing",
+    "name": "E-wing",
     "faction": [
       "Rebel Alliance"
     ],
@@ -1956,7 +1956,7 @@
     "id": 27
   },
   {
-    "name": "K-Wing",
+    "name": "K-wing",
     "faction": [
       "Rebel Alliance"
     ],
@@ -2084,7 +2084,7 @@
     "id": 29
   },
   {
-    "name": "T-70 X-Wing",
+    "name": "T-70 X-wing",
     "faction": [
       "Resistance"
     ],
@@ -2486,7 +2486,7 @@
     "id": 36
   },
   {
-    "name": "Gozanti-Class Cruiser",
+    "name": "Gozanti-class Cruiser",
     "faction": [
       "Galactic Empire"
     ],
@@ -2936,7 +2936,7 @@
     "id": 44
   },
   {
-    "name": "U-Wing",
+    "name": "U-wing",
     "xws": "uwing",
     "faction": [
       "Rebel Alliance"

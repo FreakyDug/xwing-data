@@ -38,7 +38,7 @@
   },
   {
     "id": 1,
-    "name": "X-Wing Expansion Pack",
+    "name": "X-wing Expansion Pack",
     "image": "sources/x-wing-expansion-pack-product.jpg",
     "thumb": "sources/x-wing-expansion-pack-thumb.jpg",
     "wave": 1,
@@ -68,7 +68,7 @@
   },
   {
     "id": 2,
-    "name": "Y-Wing Expansion Pack",
+    "name": "Y-wing Expansion Pack",
     "image": "sources/y-wing-expansion-pack-product.jpg",
     "thumb": "sources/y-wing-expansion-pack-thumb.jpg",
     "wave": 1,
@@ -189,7 +189,7 @@
   },
   {
     "id": 6,
-    "name": "A-Wing Expansion Pack",
+    "name": "A-wing Expansion Pack",
     "thumb": "sources/a-wing-expansion-pack-thumb.jpg",
     "image": "sources/a-wing-expansion-pack-product.png",
     "wave": 2,
@@ -300,7 +300,7 @@
   },
   {
     "id": 9,
-    "name": "B-Wing Expansion Pack",
+    "name": "B-wing Expansion Pack",
     "image": "sources/b-wing-expansion-pack-product.jpg",
     "thumb": "sources/b-wing-expansion-pack-thumb.jpg",
     "wave": 3,
@@ -534,7 +534,7 @@
   },
   {
     "id": 16,
-    "name": "E-Wing Expansion Pack",
+    "name": "E-wing Expansion Pack",
     "image": "sources/e-wing-expansion-pack-product.jpg",
     "thumb": "sources/e-wing-expansion-pack-thumb.jpg",
     "wave": 4,
